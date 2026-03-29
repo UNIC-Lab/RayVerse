@@ -31,8 +31,7 @@ RayVerse/
     │   └── visualize_aps_pdp.py            # Visualize a single APS/PDP curve
     └── utils/
         ├── propbin_reader.py               # Read .propbin / .propbin.gz files
-        ├── propbin_writer.py               # Write .propbin v2 files
-        └── proj_geometry.py                # Geometric projection utilities
+        └── propbin_writer.py               # Write .propbin v2 files
 ```
 
 ## Dataset Format
@@ -128,13 +127,13 @@ Output filenames follow the convention below:
 | PDP  | `pdp_{map}_{src}_{tx_x}_{tx_y}_{rx}.png` | Power delay profile for a TX-RX pair |
 
 ### RSS Heatmap
-<p align="center"><img src="rss/example.png" width="400"></p>
+<p align="center"><img src="rss/0_144_247.png" width="400"></p>
 
 ### Angular Power Spectrum (APS)
-<p align="center"><img src="aps/example.png" width="400"></p>
+<p align="center"><img src="aps/aps_0_107_211_110_98.png" width="400"></p>
 
 ### Power Delay Profile (PDP)
-<p align="center"><img src="pdp/example.png" width="400"></p>
+<p align="center"><img src="pdp/pdp_0_107_211_110_98.png" width="400"></p>
 
 ## License
 
