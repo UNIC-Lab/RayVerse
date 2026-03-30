@@ -1,6 +1,6 @@
 # RayVerse
 
-**RayVerse** is a large-scale urban radio propagation dataset generated via ray tracing, containing multipath propagation data (`.propbin`) and building geometry (`.json`) for 700 urban map scenarios. Each scenario includes multiple transmitter positions with full multipath information (path type, angle of arrival/departure, delay, path loss, etc.).
+**RayVerse** is a large-scale urban radio propagation dataset generated via ray tracing, containing multipath propagation data (`.propbin`) and building geometry (`.json`) for 100 urban map scenarios. Each scenario includes multiple transmitter positions with full multipath information (path type, angle of arrival/departure, delay, path loss, etc.).
 
 The dataset supports research on:
 
